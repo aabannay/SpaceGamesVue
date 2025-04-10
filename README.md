@@ -23,4 +23,5 @@ This project leverages AI models and XR technologies to:
 | `2D_3D_SBS.ipynb` | Side-by-side 3D video generation | MiDaS (`DPT_Large`) |
 
 ## 📂 Repository Structure
+All files are listed in main repository directory
 
