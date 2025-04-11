@@ -25,3 +25,5 @@ This project leverages AI models and XR technologies to:
 ## 📂 Repository Structure
 All files are listed in main repository directory
 
+## 📂 Results can be found in the below google drive folder: 
+[Google Drive](https://drive.google.com/drive/folders/1aGZ7a2MazsKfW0-zQW3hAanyTJeyQE_g?usp=sharing)
